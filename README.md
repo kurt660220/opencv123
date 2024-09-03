@@ -1,4 +1,10 @@
 # opencv123
+'''bash
+$ git config --global  user.name "kurt660220"
+$ git config --global  user.email "kurt.660220@gmail.com"
+'''
+
+
 opencv123
 ## 123
 
